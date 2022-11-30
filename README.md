@@ -1,8 +1,11 @@
 # Anime tracker
 Anime tracker consuming the api https://api.jikan.moe/v4/anime using bootstrap, flexbox, vuejs.
 
-### Project usage
+## Project usage
 ![anime-tracker usage](https://user-images.githubusercontent.com/30128774/201990947-c4efa240-00bd-48be-9302-d2f37770a0a1.gif)
+
+## Acess this project online 
+https://lcrmwp.sse.codesandbox.io/
 
 
 Before talking more about the project, I would like to point out some negative points in using free time to watch anime.
