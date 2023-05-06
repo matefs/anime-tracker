@@ -7,7 +7,7 @@ Personal anime tracker consumming the api https://api.jikan.moe/v4/anime using b
 ## Acess this project online 
 https://lcrmwp.sse.codesandbox.io/
 
-### Negative points about watching anime
+### Negative points about watching anime:
 
 Before talking more about the project, I would like to point out some negative points in using free time to watch anime.
 1. Screen time, especially at night, is linked to poor sleep (Source: https://www.webmd.com/eye-health/blue-light-health)
